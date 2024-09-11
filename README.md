@@ -1,5 +1,4 @@
-Hello! My name is Galuh Rastika Pratiwi, I am undergraduate student of Information Technology Education at State University of Surabaya
-
+Hello! My name is Galuh Rastika Pratiwi
 🔭 I’m currently working in State University of Surabaya || Bachelor of Informatic Engineering
 
 🌱 I’m currently learning Java Script & Fluter
