@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Galuh Rastika Pratiwi</h1>
-<h3 align="center">My Passion Digital Marketing, Programmer Web or Mobile App</h3>
+<h3 align="center">My Passion Digital Marketing | AI Anthusiast | Programmer Web or Mobile App</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galuhrastika&label=Profile%20views&color=0e75b6&style=flat" alt="galuhrastika" /> </p>
 
